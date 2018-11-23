@@ -8,6 +8,7 @@ PYTHON DEPENDENCIES:
 	
  
 To avoid the pain of installing independent packages and libraries of python, install Anaconda from www.anaconda.com. It is a Python data science platform which has all the ML libraries, Data analysis libraries, Jupyter Notebooks, Spyder etc. built in it which makes it easy to use and efficient. 
+
 Steps to be followed for running the code of the software: 
     • Install anaconda in the system. 
     • gui.py : It contains the code for the GUI and is linked to other modules of the software.
